@@ -1,0 +1,4 @@
+Download nodejs from: https://nodejs.org/dist/v4.2.2/node-v4.2.2-linux-x64.tar.gz
+Add nodejs bin to PATH env.
+npm install 
+nohup node first.js (change port 8080)
